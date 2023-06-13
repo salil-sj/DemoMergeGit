@@ -5,7 +5,7 @@ class FileFirst
         
         System.out.println("Hello");
 
-         System.out.println("world");
+         System.out.println("This is merged line");
 
           System.out.println("This is first Commit");
 
